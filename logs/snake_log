@@ -1,0 +1,24 @@
+2019-09-30 19:50:44,111 : lr: 0.0001
+2019-09-30 19:50:44,111 : gamma: 0.99
+2019-09-30 19:50:44,111 : tau: 1.0
+2019-09-30 19:50:44,111 : seed: 1
+2019-09-30 19:50:44,111 : workers: 8
+2019-09-30 19:50:44,111 : num_steps: 20
+2019-09-30 19:50:44,111 : max_episode_length: 1000
+2019-09-30 19:50:44,111 : env: snake
+2019-09-30 19:50:44,111 : env_config: config.json
+2019-09-30 19:50:44,111 : shared_optimizer: True
+2019-09-30 19:50:44,111 : load: False
+2019-09-30 19:50:44,111 : save_max: True
+2019-09-30 19:50:44,111 : optimizer: Adam
+2019-09-30 19:50:44,111 : count_lives: False
+2019-09-30 19:50:44,112 : load_model_dir: trained_models/
+2019-09-30 19:50:44,112 : save_model_dir: trained_models/
+2019-09-30 19:50:44,112 : log_dir: logs/
+2019-09-30 19:50:44,112 : gpu_ids: [-1]
+2019-09-30 19:50:44,112 : amsgrad: True
+2019-09-30 19:50:44,112 : skip_rate: 4
+2019-09-30 19:50:44,178 : Time 00h 00m 00s, episode reward 0.0, episode length 8, reward mean 0.0000
+2019-09-30 19:50:54,357 : Time 00h 00m 10s, episode reward 0.0, episode length 6, reward mean 0.0000
+2019-09-30 19:51:04,586 : Time 00h 00m 20s, episode reward 0.0, episode length 7, reward mean 0.0000
+2019-09-30 19:51:14,828 : Time 00h 00m 30s, episode reward 0.0, episode length 7, reward mean 0.0000

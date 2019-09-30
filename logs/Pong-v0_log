@@ -1,0 +1,21 @@
+2019-09-30 19:49:30,673 : lr: 0.0001
+2019-09-30 19:49:30,674 : gamma: 0.99
+2019-09-30 19:49:30,674 : tau: 1.0
+2019-09-30 19:49:30,674 : seed: 1
+2019-09-30 19:49:30,674 : workers: 8
+2019-09-30 19:49:30,674 : num_steps: 20
+2019-09-30 19:49:30,674 : max_episode_length: 1000
+2019-09-30 19:49:30,674 : env: Pong-v0
+2019-09-30 19:49:30,674 : env_config: config.json
+2019-09-30 19:49:30,674 : shared_optimizer: True
+2019-09-30 19:49:30,674 : load: False
+2019-09-30 19:49:30,674 : save_max: True
+2019-09-30 19:49:30,674 : optimizer: Adam
+2019-09-30 19:49:30,675 : count_lives: False
+2019-09-30 19:49:30,675 : load_model_dir: trained_models/
+2019-09-30 19:49:30,675 : save_model_dir: trained_models/
+2019-09-30 19:49:30,675 : log_dir: logs/
+2019-09-30 19:49:30,675 : gpu_ids: [-1]
+2019-09-30 19:49:30,675 : amsgrad: True
+2019-09-30 19:49:30,675 : skip_rate: 4
+2019-09-30 19:49:30,728 : Time 00h 00m 00s, episode reward 0.0, episode length 5, reward mean 0.0000
